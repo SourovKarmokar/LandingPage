@@ -215,4 +215,8 @@ This project was built as part of a **Frontend Job Interview Task Assessment**.
 
 ---
 
+<<<<<<< HEAD
 > Built with ❤️ and lots of ☕ by [Sourov Karmokar]
+=======
+> Built with ❤️ and lots of ☕ by [Sourov Karmokar]
+>>>>>>> b9588aa (LandingPage)
